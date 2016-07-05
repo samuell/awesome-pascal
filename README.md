@@ -2,6 +2,10 @@
 
 Awesome stuff related to the Pascal (Mainly Object Pascal) programming language
 
+## Language guides / references etc
+
+- [Introduction to Modern Pascal for Programmers](http://michalis.ii.uni.wroc.pl/~michalis/modern_pascal_introduction/modern_pascal_introduction.html)
+
 ## Editors / IDEs
 
 - [Lazarus](http://www.lazarus-ide.org/) - Awesome GUI Builder and graphical IDE
