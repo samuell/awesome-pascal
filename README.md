@@ -1,4 +1,4 @@
-# Awesome Pascal
+# Awesome (Modern) Pascal
 
 Awesome stuff related to the Pascal (Mainly Object Pascal) programming language
 
